@@ -9,4 +9,4 @@
     
      steps:
        - checkout
-       - run: dotnet build test-continuous-integration
+       - run: dotnet build
