@@ -1,0 +1,9 @@
+C:\Users\c.prudhomme\Desktop\Formation Avril 2020\2. Intégration continue\test-continuous-integration\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.deps.json
+C:\Users\c.prudhomme\Desktop\Formation Avril 2020\2. Intégration continue\test-continuous-integration\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Users\c.prudhomme\Desktop\Formation Avril 2020\2. Intégration continue\test-continuous-integration\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.pdb
+C:\Users\c.prudhomme\Desktop\Formation Avril 2020\2. Intégration continue\test-continuous-integration\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\c.prudhomme\Desktop\Formation Avril 2020\2. Intégration continue\test-continuous-integration\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\c.prudhomme\Desktop\Formation Avril 2020\2. Intégration continue\test-continuous-integration\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\c.prudhomme\Desktop\Formation Avril 2020\2. Intégration continue\test-continuous-integration\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.AssemblyInfo.cs
+C:\Users\c.prudhomme\Desktop\Formation Avril 2020\2. Intégration continue\test-continuous-integration\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Users\c.prudhomme\Desktop\Formation Avril 2020\2. Intégration continue\test-continuous-integration\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.pdb
