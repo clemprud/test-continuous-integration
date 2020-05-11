@@ -9,7 +9,7 @@ namespace ClassLibrary1
         /// </summary>
         /// <param name="nombre"></param>
         /// <returns></returns>
-        public static int GetInt(string nombre)
+        public int GetInt(string nombre)
         {
             var res = int.Parse(nombre);
             return res + 1;            

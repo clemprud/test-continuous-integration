@@ -8,23 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\c.prudhomme\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Clemprud\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\c.prudhomme\\Desktop\\Formation Avril 2020\\2. Intégration continue\\test-continuous-integration\\ClassLibrary1\\ClassLibrary1.csproj",
+      "projectUniqueName": "C:\\Users\\Clemprud\\source\\repos\\test-continuous-integration\\ClassLibrary1\\ClassLibrary1.csproj",
       "projectName": "ClassLibrary1",
-      "projectPath": "C:\\Users\\c.prudhomme\\Desktop\\Formation Avril 2020\\2. Intégration continue\\test-continuous-integration\\ClassLibrary1\\ClassLibrary1.csproj",
-      "packagesPath": "C:\\Users\\c.prudhomme\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\c.prudhomme\\Desktop\\Formation Avril 2020\\2. Intégration continue\\test-continuous-integration\\ClassLibrary1\\obj\\",
+      "projectPath": "C:\\Users\\Clemprud\\source\\repos\\test-continuous-integration\\ClassLibrary1\\ClassLibrary1.csproj",
+      "packagesPath": "C:\\Users\\Clemprud\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Clemprud\\source\\repos\\test-continuous-integration\\ClassLibrary1\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\c.prudhomme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Clemprud\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -62,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
